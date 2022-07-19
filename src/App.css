@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.app {
+  max-width: 500px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.question-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.question-main {
+  background: #fff;
+  border-radius: 10px;
+  padding: 2.5rem;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+  min-width: 500px;
+  max-width: 90%;
+  min-height: 350px;
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,14 @@
+.category-selector {
+    max-width: 60%;
+  }
+  
+  .category-selector select {
+    font-size: 16px;
+    width: 100%;
+  }
+  
+  .category-selector p {
+    margin: 0;
+    font-size: 16px;
+  }
+  
